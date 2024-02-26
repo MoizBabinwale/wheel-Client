@@ -1,1 +1,1 @@
-export const API = "https://wheel-server.vercel.app/api";
+export const API = "http://localhost:5000/api";
